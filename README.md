@@ -43,5 +43,7 @@ As a consequence, be careful not to push any c file containing a main function i
 You might want to look at the gcc flag -Wno-format when testing with your _printf and the standard printf
 
 Authors:
+
 [Nwoha Martins](https://github.com/martinsmind)
+
 [Ebrahim Mangera](https://github.com/EbrahimM78)
